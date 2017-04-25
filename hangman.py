@@ -1,4 +1,5 @@
 import random
+du[p
 import time
 
 capitol = ['AMSTERDAM',
